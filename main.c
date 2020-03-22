@@ -41,7 +41,6 @@ int main()
     int return_size = 0;
     int *returnColumnSizes = NULL;
     int **new_array = NULL;
-    printf("Hello world!\n");
 
     new_array = generate(10, &return_size, &returnColumnSizes);
 
