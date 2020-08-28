@@ -1,5 +1,5 @@
 /*
- *for leetcode 118 yanghuisanjiao 1
+ *for leetcode 118 yanghuisanjiao 1 20200829
  *
 */
 #include <stdio.h>
