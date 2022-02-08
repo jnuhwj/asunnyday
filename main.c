@@ -1,5 +1,6 @@
 /*
  *for leetcode 118 yanghuisanjiao 1 20200829
+ *modify 20220209
  *
 */
 #include <stdio.h>
