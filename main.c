@@ -1,6 +1,6 @@
 /*
  *for leetcode 118 yanghuisanjiao 1 20200829
- *modify 20220209
+ *modify 20220210
  *
 */
 #include <stdio.h>
